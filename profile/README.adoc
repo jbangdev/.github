@@ -2,7 +2,7 @@
 
 JBang lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
 
-https://jbang.dev/downloads[Downloads] and https://jbang.dev/documentation[Documentation] is on the https://jbang.dev website.
+https://jbang.dev/download[Download] and https://jbang.dev/documentation[Documentation] is on the https://jbang.dev website.
 
 To submit feedback or just have a discussion please use https://github.com/jbangdev/jbang/discussions[JBang Discussions].
 
